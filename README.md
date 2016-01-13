@@ -9,7 +9,7 @@ Lakka
 Precautions
 ---
 
-Use this script on your own risk.
+Use this script at your own risk.
 The original author tested it only on XU3 Lite and I only did a quick test after my modifications.
 
 I modified it for XU4 and Lakka and set a minimum fanspeed of 60,
