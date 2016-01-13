@@ -1,0 +1,14 @@
+[Unit]
+Description=ODROID Fan Control
+
+[Service]
+ExecStart=/storage/.config/odroid-xu3-fan-control.sh start
+ExecStop=/storage/.config/odroid-xu3-fan-control.sh stop
+Type=simple
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
+
+
+
