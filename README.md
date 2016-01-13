@@ -1,6 +1,6 @@
 Odroid Fan Control
 ---
-Makes the XU3 and XU4 a bit less noisy
+Makes the XU4 a bit less noisy
 
 Will work on:
 
